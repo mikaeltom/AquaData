@@ -8,7 +8,7 @@ Date : 16/05/2025
 
 <img src="docs/images/home.png" width="600" alt="Application screenshot">
 
-<video src="docs/videos/demo.mp4" controls width="600"></video>
+<img width="600" height="390" alt="demo" src="https://github.com/user-attachments/assets/8b1cd93e-a253-4e0e-8fd8-34df17243905" />
 
 ## Project Description
 
