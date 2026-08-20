@@ -8,8 +8,6 @@ Date : 16/05/2025
 
 ![demo_screen](docs/images/home.png)
 
-![me](docs/videos/demo.gif)
-
 ## Project Description
 
 Water quality is essential to both human health and ecosystems: water pollution threatens a quarter of all freshwater species and is linked to more than 80% of diseases worldwide. Yet existing tools (Water Quality Portal, WISE, GEMStat, Our World in Data, …) tend to be either poorly accessible to the general public, geographically limited, or lacking any predictive model.
@@ -42,6 +40,8 @@ The application consists of 5 main pages:
 - **Water Usage Worldwide** : SDG 6.4 indicators (water use efficiency, water stress) by country, with **predictions up to 2030** obtained via polynomial regression (the best degree is automatically selected using RMSE).
 
 Cross-cutting features: interactive maps and charts (zoom, hover, click), dynamic selectors/filters (pollutant, country, year, log scale), educational descriptions for each indicator, and a custom design.
+
+![me](docs/videos/demo.gif)
 
 ## Requirements :
 
