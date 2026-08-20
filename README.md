@@ -64,16 +64,16 @@ python3 src/app.py
 The application is then available in a browser at: **http://127.0.0.1:8050**
 
 ## Problem with the data ?
-**Get the data : **
+**Get the data :**
 The application reads already-cleaned `.json` files from the `json/` folder. If this folder is not provided or needs to be regenerated from the raw data (`ddb/` folder, containing CSV/SQLite exports from GEMStat, EEA, and AQUASTAT — see links in the report), run:
 ```bash
 python3 src/jsonGenerator.py
 ```
 
-**Predictions : **
+**Predictions :**
 To regenerate the SDG 6.4 (water use) predictions:
 ```bash
-   python3 jsonPredictionsWaterUsage.py
+python3 jsonPredictionsWaterUsage.py
 ```
 ## Data Sources
 - [GEMStat](https://gemstat.org) : Global Environmental Monitoring System for Freshwater Quality (UN/UNEP)
