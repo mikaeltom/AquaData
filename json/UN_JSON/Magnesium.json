@@ -1,0 +1,380 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 30.308333333333334,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 30.0719298245614,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 6.571663512306068,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 7.063454545454546,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 38.441808826843925,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 17.146810149524242,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 21.533878126442087,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 17.508439038269426,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 16.279317866359843,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 3.1456806035837785,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 2.3009473684210526,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 43.89618885096701,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 23.427413006583762,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 14.811689498473557,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 30.007986725663716,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 11.801557719054241,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 14.590909090909092,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 17.3919768907563,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 13.131499504006104,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 11.59311157387111,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 43.6,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 11.29483387755102,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 27.4004920913884,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 33.342592592592595,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.601054815133276,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 2.879375,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "ESP",
+    "Year_Bin": "2000-2023",
+    "Value": 26.797945092910012,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 11.943589743589744,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.839208211143695,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 8.149317725752509,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 6.0513875,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 29.0246301369863,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 20.60445054945055,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 4.471134657836645,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 1.6935817191478666,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 24.20585606951409,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 21.485843373493978,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 18.401976744186047,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 26.885961240625868,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 13.765801651462336,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 60.5451596217885,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 0.3465749235474006,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 0.40984415584415584,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 1.8204778738555443,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 11.880689655172414,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "ROU",
+    "Year_Bin": "2000-2023",
+    "Value": 15.617749496613582,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 16.24773299748111,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 2.377171748755792,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 3.166814903846154,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 5.807236703064459,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 13.309316770186337,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 10.608720963172804,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 11.952857777777778,
+    "Unit": "mg/l",
+    "Parameter": "Mg-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 11161.56935064935,
+    "Unit": "\u00b5g/g",
+    "Parameter": "Mg-Sus"
+  }
+]

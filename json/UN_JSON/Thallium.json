@@ -1,0 +1,37 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010824125195141454,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Tl-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 3.88125,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Tl-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006094819549873485,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Tl-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008125,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Tl-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0019314166666666666,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Tl-Dis"
+  }
+]

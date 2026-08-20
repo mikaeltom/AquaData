@@ -1,0 +1,128 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0018538461538461538,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010656412556053812,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0013338870156758354,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004979539295392954,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 2.5641025641025643e-05,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0006532142857142857,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0012498474810258302,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0005,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010079615048118986,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001133162583518931,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.025,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 719424.4605155844,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003897447368421053,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.001,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0004789336384439359,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.001152317880794702,
+    "Unit": "mg/l",
+    "Parameter": "Se-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.33395377963321904,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Se-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.17945460591952112,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Se-Ext"
+  }
+]

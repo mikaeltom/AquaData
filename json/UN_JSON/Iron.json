@@ -1,0 +1,429 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 0.24115384615384616,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.035925695839311336,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1287665238095238,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06696078431372549,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10219228486646885,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "DNK",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0403960396039604,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06291927710843373,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.225777027027027,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03581911452513967,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 0.021485148514851483,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 0.13358554554805088,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 0.26205140850854614,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1471692913385827,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.056365545062061526,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10514161969339623,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06344152950955943,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011877186076772933,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02178761386138614,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06560325488232349,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.14652173913043479,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 0.09063951734539971,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.07752921145046292,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09379527871454076,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 85.13266666666667,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6319355658272234,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 1.678342668863262,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.017181818181818184,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "BIH",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09730434782608696,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6007474212893553,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "1980-2000",
+    "Value": 0.00935,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008742857142857142,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "DNK",
+    "Year_Bin": "1980-2000",
+    "Value": 0.003550561797752809,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "DNK",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002712346477052359,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5083333333333333,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1960-1980",
+    "Value": 1.31811872909699,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1980-2000",
+    "Value": 1.005677886720609,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.0342062385321102,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.21183363122171947,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 1.041829213483146,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6574491634491635,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9957942355889725,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2936702637889688,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08966639301874596,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.13511666666666666,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2096731406370739,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 24.221283213644526,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3084987935836299,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 0.3863738738738739,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 0.35309057971014496,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.18230840220385675,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8576215944272446,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "1980-2000",
+    "Value": 0.3985,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6511039125539501,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 1.2582049518569465,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 0.24563139931740613,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 1.6166573033707865,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6181666666666666,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.35132010456273766,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 2.694250559284116,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 2.877724600309438,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6118197674418605,
+    "Unit": "mg/l",
+    "Parameter": "Fe-Ext"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5893461538461539,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.034044943820224716,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2498682727926747,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0135,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 0.08036747967479675,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 0.2117494841108565,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 0.20410824753636791,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.012035187826913932,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1717784712578753,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 541125.8400934524,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.15255645544554455,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.212,
+    "Unit": "mg/l",
+    "Parameter": "B-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 10.615087034579659,
+    "Unit": "\u00b5g/l",
+    "Parameter": "B-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1079.6296296296296,
+    "Unit": "\u00b5g/l",
+    "Parameter": "B-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 77.44,
+    "Unit": "\u00b5g/l",
+    "Parameter": "B-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 4.000806364617044,
+    "Unit": "\u00b5g/l",
+    "Parameter": "B-Ext"
+  }
+]

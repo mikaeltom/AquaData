@@ -1,0 +1,156 @@
+SELECT observedPropertyDeterminandLabel, COUNT(DISTINCT countryCode) AS country_count
+FROM T_WISE6_DisaggregatedData
+GROUP BY observedPropertyDeterminandLabel
+ORDER BY country_count DESC;
+
+
+Result : (limité à 20 minimum)
+
+Nitrite	37
+Nitrate	37
+Ammonium	37
+pH	35
+Water temperature	34
+Sulphate	34
+Nickel and its compounds	34
+Lead and its compounds	34
+Dissolved oxygen	34
+Chloride	34
+Cadmium and its compounds	34
+Zinc and its compounds	33
+Electrical conductivity	33
+Copper and its compounds	33
+Chromium and its compounds	33
+Potassium	32
+Mercury and its compounds	32
+Magnesium	32
+Calcium	32
+Arsenic and its compounds	32
+Total phosphorus	31
+Sodium	31
+Phosphate	31
+Iron and its compounds	31
+Atrazine	31
+Trichloromethane	30
+Total suspended solids	30
+Simazine	30
+Naphthalene	30
+Manganese and its compounds	30
+Hexachlorobutadiene	30
+Gamma-HCH (Lindane)	30
+Chlorfenvinphos	30
+Benzene	30
+Alachlor	30
+Trifluralin	29
+Thiacloprid	29
+Pentachlorobenzene	29
+Isoproturon	29
+Hexachlorobenzene	29
+Fluoranthene	29
+Diuron	29
+Clothianidin	29
+Chlorpyrifos	29
+Benzo(g,h,i)perylene	29
+Benzo(a)pyrene	29
+Aluminium and its compounds	29
+Thiamethoxam	28
+Pentachlorophenol	28
+Indeno(1,2,3-cd)pyrene	28
+Imidacloprid	28
+Endrin	28
+Diclofenac	28
+Dichloromethane	28
+Di(2-ethylhexyl)phthalate (DEHP)	28
+DDT, p,p'	28
+Benzo(k)fluoranthene	28
+Benzo(b)fluoranthene	28
+Anthracene	28
+1,2-dichloroethane	28
+Total organic carbon (TOC)	27
+Total nitrogen	27
+Terbutryn	27
+Oxygen saturation	27
+Methiocarb	27
+Dieldrin	27
+Clarithromycin	27
+Azitromycin	27
+Aldrin	27
+17beta-estradiol (E2)	27
+17alpha-ethinylestradiol (EE2)	27
+Trimethoprim	26
+Tri-allate	26
+Tetraconazole	26
+Tebuconazole	26
+Sulfamethoxazol	26
+Perfluorooctane sulfonic acid (PFOS) and its derivatives	26
+Oxadiazon	26
+Imazalil	26
+Fluconazole	26
+Ethanimidamide	26
+Estrone (E1)	26
+Erythromycin	26
+Carbon tetrachloride	26
+Alpha-HCH	26
+2-Ethylhexyl 4-methoxycinnamate	26
+p,p'-DDE	25
+Venlafaxine	25
+Trichloroethylene	25
+Tetrachloroethylene	25
+Quinoxyfen	25
+O-desmethylvenlafaxine	25
+Isodrin	25
+Heptachlor	25
+Hardness	25
+Cobalt and its compounds	25
+Ciprofloxacin	25
+Alpha-Endosulfan	25
+2,6-Ditert-butyl-4-methylphenol	25
+Prochloraz	24
+Penconazole	24
+Miconazole	24
+Metconazole	24
+Metaflumizone	24
+Ipconazole	24
+Famoxadone	24
+Dimoxystrobin	24
+Dicofol	24
+Dichlorvos	24
+Cybutryne	24
+Clotrimazole	24
+Bentazone	24
+Amoxicillin	24
+Secchi depth	23
+Hydrogen Carbonate (Bicarbonate) HCO3	23
+Dissolved organic carbon (DOC)	23
+DDT, o,p'	23
+Cypermethrin	23
+Chlorophyll a	23
+Bifenox	23
+Beta-HCH	23
+Aclonifen	23
+p,p'-DDD	22
+Terbuthylazine	22
+Octylphenol (4-(1,1',3,3'-tetramethylbutyl)-phenol)	22
+Dimethoate	22
+Delta-HCH	22
+Chloroalkanes C10-13	22
+4-nonylphenol	22
+Toluene	21
+Pyrene	21
+Heptachlor epoxide	21
+Ethylbenzene	21
+Endosulfan	21
+Diflufenican	21
+Dibenzo(a,h)anthracene	21
+Beta-Endosulfan	21
+Benzo(a)anthracene	21
+1,2,4-trichlorobenzene	21
+Propazine	20
+Phenanthrene	20
+MCPA	20
+Linuron	20
+Barium	20
+BOD5	20
+
+
+

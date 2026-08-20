@@ -1,0 +1,23 @@
+[
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 9959.934780703075,
+    "Unit": "mg/m\u00b3",
+    "Parameter": "Phyt-B"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 1058.1584,
+    "Unit": "mg/m\u00b3",
+    "Parameter": "Phyt-B"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 582.8220961538461,
+    "Unit": "mg/m\u00b3",
+    "Parameter": "Phyt-B"
+  }
+]

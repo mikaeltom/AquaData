@@ -1,0 +1,37 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.363716577540107,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Li-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.4506769769477676,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Li-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 6.498082461538461,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Li-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 2.715,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Li-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 32.85970802919708,
+    "Unit": "\u00b5g/g",
+    "Parameter": "Li-Sus"
+  }
+]

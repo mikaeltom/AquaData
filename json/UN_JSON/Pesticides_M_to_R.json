@@ -1,0 +1,1689 @@
+[
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02378021978021978,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014687500000000001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "CZE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.007533746630727763,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "DEU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005789473684210527,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0158,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.009611803084223013,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0023533333333333336,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3318502944640754,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.009709212557900155,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "PRT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00296,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIOCARB"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.12654311039484287,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.025646913580246913,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0112,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.020874678083955704,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011599218561605007,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0005354545454545454,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.07058783407692308,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3127069690992768,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05740079847248742,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2623379310344828,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPA"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05718956916099774,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06132222222222222,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02472221406548231,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.027248333333333333,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01112499980372369,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04918297342070773,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.28819275825346113,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04634816490698844,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01949785407725322,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPPACID"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02426555972147831,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0003,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0018000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00976988736709317,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006000000052154,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0005769270166453265,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10198271604938271,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.044875000000000005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0045,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006927121094758585,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0005609271523178808,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.009363636363636364,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010573416149068324,
+    "Unit": "\u00b5g/l",
+    "Parameter": "QUINOXYFEN"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04694143484626647,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPB"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.025191646841131378,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPB"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.035915032679738564,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPB"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04538805436337625,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MCPB"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.020622119815668204,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROMETRYN"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROMETRYN"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018205351454661286,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROMETRYN"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4941337295690936,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROMETRYN"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROMETRYN"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005272878535773711,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROMETRYN"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0031747321758404134,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROMETRYN"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04837412587412588,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAMITRON"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAMITRON"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.023451440126257644,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAMITRON"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004278333333333333,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAMITRON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2646713433645113,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAMITRON"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03402128603104213,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAMITRON"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05706896551724138,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAMITRON"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.017638888888888888,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAPHOS"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010938378936499743,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAPHOS"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005393454979373622,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAPHOS"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.30252923351158645,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAPHOS"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.013029428761947098,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAPHOS"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.024733333333333333,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAPHOS"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.044661971830985914,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03649520541919592,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00128,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.38236577128903204,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.017592873154362414,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.026014985471149853,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.05000000000000001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0543579766536965,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0029086021505376346,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04267608695652174,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOLACHOR"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0300239417989418,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METRIBUZIN"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018641644341801388,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METRIBUZIN"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00349,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METRIBUZIN"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.215637375542507,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METRIBUZIN"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.015763269140441523,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METRIBUZIN"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00643448275862069,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METRIBUZIN"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0806375,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METRIBUZIN"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.020447522236340537,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PARATHION"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.013364149681195777,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PARATHION"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0053199736001250586,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PARATHION"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1463589525096124,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PARATHION"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.021837511241007194,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PARATHION"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014499999999999999,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PARATHION"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.019639115250291037,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPAZINE"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPAZINE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01686479929422144,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPAZINE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1792204315050689,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPAZINE"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPAZINE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0073458300815892165,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPAZINE"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002973347547974414,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPAZINE"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.025,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PENDIMETHALIN"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010647278329654158,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PENDIMETHALIN"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2476703921665595,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PENDIMETHALIN"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011147873105574108,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PENDIMETHALIN"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018238461538461537,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PENDIMETHALIN"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014010344827586205,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PENDIMETHALIN"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.020906052631578947,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.012389763931888544,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005720684995042741,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04349403296703297,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.29483020908435476,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00771815932460223,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.58,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MALATHION"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.025,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHOMYL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.024451333333333332,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHOMYL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5762280971411006,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHOMYL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.027726824109975328,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHOMYL"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METSULFURON-METHYL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.016135357694287183,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METSULFURON-METHYL"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00346,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METSULFURON-METHYL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5833071957307626,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METSULFURON-METHYL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.017791447004608295,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METSULFURON-METHYL"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005666666666666666,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METSULFURON-METHYL"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018699197860962566,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MBC"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0106602672889266,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MBC"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0029872727272727273,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MBC"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.017851833848873178,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MBC"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06201114936874898,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MBC"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0096,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MBC"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014834666666666666,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAZACHLOR"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00152,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAZACHLOR"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.013203284132841329,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAZACHLOR"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0009922222222222222,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAZACHLOR"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25634684684684683,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAZACHLOR"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 215030641.89300132,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAZACHLOR"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.055236206896551725,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METAZACHLOR"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010163157894736843,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHABENZTHIAZURON"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0007777777777777778,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHABENZTHIAZURON"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.007453621709106604,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHABENZTHIAZURON"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0020277777777777777,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHABENZTHIAZURON"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.052777631578947375,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOBROMURON"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008166666666666666,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOBROMURON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.22580294248773963,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOBROMURON"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01151492220113852,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOBROMURON"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METOBROMURON"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.021584604519774012,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MEVINPHOS"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.43360311958405545,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MEVINPHOS"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0068850164795364,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MEVINPHOS"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010010526315789475,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MONOLINURON"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0026666666666666666,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MONOLINURON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0011739130434782609,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MONOLINURON"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0075235932270131915,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MONOLINURON"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002280745341614907,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011581252889505317,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005861538461538461,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.025,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0018014479359211339,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0089625,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXCHLOR"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01574078947368421,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMICARB"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.015704308475535025,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMICARB"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1899115786578658,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMICARB"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010009353659757685,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMICARB"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004834482758620689,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMICARB"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 5.035130112721417,
+    "Unit": "ng/l",
+    "Parameter": "PICLORAM"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018617810760667906,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METALAXYL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2917825009229471,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METALAXYL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03776923076923077,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METALAXYL"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0024642857142857144,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METALAXYL"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014841666666666668,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METALAXYL"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004333333333333333,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NICOSULFURON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4315038531278332,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NICOSULFURON"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.027927904699738902,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NICOSULFURON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010030721966205837,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXAMYL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.016987975951903808,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXAMYL"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 2.14,
+    "Unit": "ng/l",
+    "Parameter": "PRIMISULFURON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5277552356020943,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROSULFURON"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.017335855263157895,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROSULFURON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3810849290380716,
+    "Unit": "\u00b5g/l",
+    "Parameter": "RIMSULFURON"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.11143913043478261,
+    "Unit": "\u00b5g/l",
+    "Parameter": "RIMSULFURON"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "RIMSULFURON"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.16345307739183423,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIDATHION"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00891517857142857,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHIDATHION"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4565167014613779,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MYCLOBUTANIL"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010555555555555555,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NAPROPAMIDE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.009140625000000001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NAPROPAMIDE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005465020576131688,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NAPROPAMIDE"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NAPROPAMIDE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9504250474383302,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PHORATE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.040363636363636365,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PHORATE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.021835674470457082,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PHOSALONE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.13914274691358025,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PHOSALONE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.013851664559629164,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PHOSALONE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02320353982300885,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPOXUR"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011589208633093524,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPOXUR"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011966106080206986,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PYRACLOSTROBIN"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.024568130869433505,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PYRACLOSTROBIN"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010777777777777778,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PYRACLOSTROBIN"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0051,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PYRACLOSTROBIN"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01908482142857143,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PHOSMET"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2MPHL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08291781982490823,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2MPHL"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00088,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OMETHOATE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.028890319773765497,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OMETHOATE"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010425531708285238,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OMETHOATE"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0063887499999999995,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OMETHOATE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4449151759953837,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OMETHOATE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.015378450578806767,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OMETHOATE"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PECNBZ"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.017419443679427157,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PECNBZ"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.29431531076301165,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PECNBZ"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMIPHOSMETHYL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 2.960280487804878,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMIPHOSMETHYL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005593758721878057,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PIRIMIPHOSMETHYL"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0056,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPICONAZOLE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0229732,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPICONAZOLE"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0032700000000000003,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPICONAZOLE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2286816648726229,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPICONAZOLE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02817282532670716,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPICONAZOLE"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.022186206896551725,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPICONAZOLE"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0035,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROPICONAZOLE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.019333169718708704,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PRONAMIDE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1320723485521407,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PRONAMIDE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.011480314960629921,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PRONAMIDE"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005760344827586208,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PRONAMIDE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03558632286995516,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHAMIDOPHOS"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010159150976440552,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHAMIDOPHOS"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.36957183770883056,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHAMIDOPHOS"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010720338983050847,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHAMIDOPHOS"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "1CLNAPHTHALENE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.016715094339622642,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PICOLINAFEN"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PICOLINAFEN"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014440740740740742,
+    "Unit": "\u00b5g/l",
+    "Parameter": "METHOXYFENOZIDE"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.012533333333333334,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PYRIMETHANIL"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0049,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PROTHIOCONAZOLE"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.26,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PERMETHRIN"
+  }
+]

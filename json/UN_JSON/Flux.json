@@ -1,0 +1,30 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 2368.315371500536,
+    "Unit": "m\u00b3/s",
+    "Parameter": "Q-Inst"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 168.08089400720448,
+    "Unit": "m\u00b3/s",
+    "Parameter": "Q-Inst"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 1402.4923076923078,
+    "Unit": "m\u00b3/s",
+    "Parameter": "Q-Inst"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 1329.9771670386265,
+    "Unit": "m\u00b3/s",
+    "Parameter": "Q-Inst"
+  }
+]

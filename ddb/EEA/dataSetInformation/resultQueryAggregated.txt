@@ -1,0 +1,79 @@
+SELECT observedPropertyDeterminandLabel, COUNT(DISTINCT countryCode) AS country_count
+FROM T_WISE6_AggregatedData
+GROUP BY observedPropertyDeterminandLabel
+ORDER BY country_count DESC;
+
+Result : (limité à 20 minimum)
+
+Total phosphorus	38
+Nitrate	38
+Ammonium	38
+pH	37
+Water temperature	37
+Phosphate	36
+Electrical conductivity	36
+Dissolved oxygen	36
+Nitrite	35
+Chlorophyll a	34
+BOD5	34
+Nickel and its compounds	33
+Lead and its compounds	33
+Cadmium and its compounds	33
+Total nitrogen	32
+Sulphate	32
+Oxygen saturation	32
+Mercury and its compounds	31
+Copper and its compounds	31
+Zinc and its compounds	30
+Total organic carbon (TOC)	30
+Secchi depth	30
+CODCr	30
+Arsenic and its compounds	30
+Total suspended solids	29
+Magnesium	29
+Chromium and its compounds	29
+Chloride	29
+Calcium	29
+Sodium	28
+Potassium	28
+Manganese and its compounds	28
+Iron and its compounds	27
+Endrin	27
+Dieldrin	27
+Atrazine	27
+Aldrin	27
+Gamma-HCH (Lindane)	26
+Simazine	25
+Hardness	25
+Aluminium and its compounds	25
+Kjeldahl nitrogen	24
+Fluoranthene	24
+Diuron	24
+DDT, p,p'	24
+Chlorpyrifos	24
+Benzene	24
+Anthracene	24
+Trifluralin	23
+Naphthalene	23
+Isoproturon	23
+Isodrin	23
+Indeno(1,2,3-cd)pyrene	23
+Hexachlorobenzene	23
+Chlorfenvinphos	23
+CODMn	23
+Benzo(g,h,i)perylene	23
+Benzo(b)fluoranthene	23
+Alachlor	23
+Hexachlorobutadiene	22
+Dissolved organic carbon (DOC)	22
+Benzo(k)fluoranthene	22
+Benzo(a)pyrene	22
+p,p'-DDE	21
+p,p'-DDD	21
+Trichloromethane	21
+Alpha-HCH	21
+Alpha-Endosulfan	21
+Acid neutralizing capacity	21
+Total inorganic nitrogen	20
+Pentachlorophenol	20
+Pentachlorobenzene	20

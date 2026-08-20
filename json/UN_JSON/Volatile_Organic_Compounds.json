@@ -1,0 +1,2417 @@
+[
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1974812030075188,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1332384592326139,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4481751824817518,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.050060240963855425,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "CZE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.48075860124083475,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4530224150192007,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3284388243335612,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.42276204075716234,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5479792019675593,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08321088435374151,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.7199999999999998,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7122629682997119,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.033717668097281835,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 1.6721361502347418,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 1.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.38545454545454544,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.20000000000000004,
+    "Unit": "\u00b5g/l",
+    "Parameter": "BENZENE"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4286206896551724,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1547907412748774,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4236559139784946,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "CZE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.37153239436619717,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "1980-2000",
+    "Value": 1.5,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5724674198820436,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.15084745762711865,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.46878658929722755,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.41972592370572204,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9690458347435092,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 6.617414965986395,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4330232558139535,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.26745646465707384,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.053743158828748895,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8033390557939915,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6453781512605041,
+    "Unit": "\u00b5g/l",
+    "Parameter": "EDC"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09536082474226804,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6782407567879838,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 2.8857608695652175,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.054579234972677595,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "1980-2000",
+    "Value": 19.4,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 5.281099722558156,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 2.32,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 3.06163813459268,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4207433065902579,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 2.3235505555862677,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2537142857142857,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 4.471627906976744,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3713243669223495,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 179051032.6577881,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4299488817891374,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.5831932773109245,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MECL"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002972972972972973,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0975673991472614,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.29708029197080293,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1141653609993648,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003008443934099202,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.15835724137931034,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.37450701307053946,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1752008130081301,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1739766081871345,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 30.962174005757543,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05258951833607006,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "124TCBZ"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.19133266533066132,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10688577586206896,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003000000026077,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04473684210526316,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1731603675088745,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.12,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010243710691823898,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08056077481840193,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1318301724137931,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCB-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.11277668901495616,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.12403802367941712,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010167381974248928,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003000000026077,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1547386206896552,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.37120009413742694,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1856482903000698,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1739766081871345,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.055258052970651395,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "123TCBZ"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09164495114006516,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0058000000000000005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.13006267092069282,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.16478783490224475,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10002237230899114,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.15505050505050508,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08383199530056784,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "135TCBZ"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.17140486307837582,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0020560109289617483,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.38118681005626376,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1452136968928345,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4202554685714286,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7971329173352657,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2507482993197279,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8316279069767442,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.07592687197445669,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.036888952929875124,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6469441489361702,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 1.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25378151260504206,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CCl4"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.18745244627343394,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.43245949780110654,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10017094017094018,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.17817035265989242,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4469731451197053,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8806423607977618,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.07424119241192413,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.45348837209302323,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5088097489232063,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04063089618456078,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.19016487935656837,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 1.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.28756302521008403,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PCE"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.17550316598824062,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4405167572144218,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10217610062893083,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.16756306037059174,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.44620920644036693,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7683061149761993,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1038639455782313,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.45348837209302323,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4623306666666667,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03708555181576617,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.15119354838709678,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 1.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.34957983193277314,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCE"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.21222504892367908,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.07373493975903615,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25043715846994535,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6740052700922267,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3382476060191519,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4415265732474964,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.949761827763804,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.3800000000000001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5744368992248061,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04698769153630165,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TOLH"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25268872987477636,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05608433734939759,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7304880817253121,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10446254071661237,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4294117647058823,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9747005432790028,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9995314605576863,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06032591756070017,
+    "Unit": "\u00b5g/l",
+    "Parameter": "XYLTOT"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2603019538188277,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.21748934426229508,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.22505256940342588,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4173538492836676,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8139676824772671,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03381820166732831,
+    "Unit": "\u00b5g/l",
+    "Parameter": "111TCA"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2474199288256228,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05042168674698796,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5054338549075391,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4210676705202312,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9745062991278131,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.1199999999999999,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.41378330741316743,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03307826709631221,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ETBZ"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2557829181494662,
+    "Unit": "\u00b5g/l",
+    "Parameter": "112TCA"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8037829376467519,
+    "Unit": "\u00b5g/l",
+    "Parameter": "112TCA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4193436339357143,
+    "Unit": "\u00b5g/l",
+    "Parameter": "112TCA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.0008274715436758,
+    "Unit": "\u00b5g/l",
+    "Parameter": "112TCA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.23887881374013228,
+    "Unit": "\u00b5g/l",
+    "Parameter": "112TCA"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.031349185861795074,
+    "Unit": "\u00b5g/l",
+    "Parameter": "112TCA"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5928571428571429,
+    "Unit": "\u00b5g/l",
+    "Parameter": "112TCA"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2924260249554367,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MTBE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8352946564885496,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MTBE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.9441714285714287,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MTBE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4006948333539834,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MTBE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.20989150189314262,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MTBE"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.24515260323159788,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.51201529219006,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4485411828571429,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8363213473477165,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.24818181818181817,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06633049040511727,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03094502628811777,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CBZH"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.39856502242152464,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DETPTHAL8"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DETPTHAL8"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09618415432311402,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DETPTHAL8"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4588235294117647,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DETPTHAL8"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DETPTHAL8"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 1.1226666666666667,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DETPTHAL8"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DETPTHAL8"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.28192051756007397,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DMP"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4000000000000001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DMP"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2677256446991404,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DMP"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3588235294117647,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DMP"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DMP"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 1.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DMP"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "IPBZ"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6096841134424718,
+    "Unit": "\u00b5g/l",
+    "Parameter": "IPBZ"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4260514785714286,
+    "Unit": "\u00b5g/l",
+    "Parameter": "IPBZ"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.2701880822640184,
+    "Unit": "\u00b5g/l",
+    "Parameter": "IPBZ"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.058629890363531445,
+    "Unit": "\u00b5g/l",
+    "Parameter": "IPBZ"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MDCB"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5813827893175074,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MDCB"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4193939971223022,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MDCB"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6965868628620667,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MDCB"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.32510802139037437,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MDCB"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04072832369942196,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MDCB"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2541149012567325,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MPXYLS"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MPXYLS"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7480362076923077,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MPXYLS"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.935140294223179,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MPXYLS"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.8666666666666667,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MPXYLS"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.72414103626943,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MPXYLS"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08332506406970785,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MPXYLS"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ODCB"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.28016836875517526,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ODCB"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.41954118285714287,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ODCB"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6925646923519264,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ODCB"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.23739711384286477,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ODCB"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03944144856968959,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ODCB"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.24526211849192098,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05174698795180723,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4741676762114537,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.23464021641118124,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4221126114285715,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7930548822955844,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.2044444444444444,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.33602404292642657,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.032276546530392684,
+    "Unit": "\u00b5g/l",
+    "Parameter": "OXYL"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PDCB"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0694338905775076,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PDCB"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PDCB"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.44638317064220184,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PDCB"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7640636806825107,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PDCB"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.32536346396965865,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PDCB"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0435533804475854,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PDCB"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "STYRENE"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10000000000000002,
+    "Unit": "\u00b5g/l",
+    "Parameter": "STYRENE"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5209683290862759,
+    "Unit": "\u00b5g/l",
+    "Parameter": "STYRENE"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4209281318077475,
+    "Unit": "\u00b5g/l",
+    "Parameter": "STYRENE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.37863562091503267,
+    "Unit": "\u00b5g/l",
+    "Parameter": "STYRENE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.20497918506370633,
+    "Unit": "\u00b5g/l",
+    "Parameter": "STYRENE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03928988525286868,
+    "Unit": "\u00b5g/l",
+    "Parameter": "STYRENE"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25541516245487367,
+    "Unit": "\u00b5g/l",
+    "Parameter": "VCM"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.31987499999999996,
+    "Unit": "\u00b5g/l",
+    "Parameter": "VCM"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.38018433179723504,
+    "Unit": "\u00b5g/l",
+    "Parameter": "VCM"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3870478393320546,
+    "Unit": "\u00b5g/l",
+    "Parameter": "VCM"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2350115862650095,
+    "Unit": "\u00b5g/l",
+    "Parameter": "VCM"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 35.697586111111114,
+    "Unit": "\u00b5g/l",
+    "Parameter": "VCM"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.24515260323159788,
+    "Unit": "\u00b5g/l",
+    "Parameter": "11DCA"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 2.0622283356258597,
+    "Unit": "\u00b5g/l",
+    "Parameter": "11DCA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.41734731664212077,
+    "Unit": "\u00b5g/l",
+    "Parameter": "11DCA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.0272792240939255,
+    "Unit": "\u00b5g/l",
+    "Parameter": "11DCA"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04723517845693525,
+    "Unit": "\u00b5g/l",
+    "Parameter": "11DCA"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2453087971274686,
+    "Unit": "\u00b5g/l",
+    "Parameter": "12DCPA"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.16462191358024694,
+    "Unit": "\u00b5g/l",
+    "Parameter": "12DCPA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4389992620769231,
+    "Unit": "\u00b5g/l",
+    "Parameter": "12DCPA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.1335235547629663,
+    "Unit": "\u00b5g/l",
+    "Parameter": "12DCPA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2,
+    "Unit": "\u00b5g/l",
+    "Parameter": "12DCPA"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.038370108161258604,
+    "Unit": "\u00b5g/l",
+    "Parameter": "12DCPA"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2CT"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6689538331215586,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2CT"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2CT"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.43376783716814155,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2CT"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6453136708199007,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2CT"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.022106364562118126,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2CT"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DIBTPTHAL8"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DIBTPTHAL8"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4795632513661202,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DIBTPTHAL8"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.5941176470588236,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DIBTPTHAL8"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DIBTPTHAL8"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5021047658175842,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXYL"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXYL"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2627466185752931,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXYL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5533282208588957,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MXYL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6754819227608875,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PXYL"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.25,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PXYL"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.26937962128043286,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PXYL"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.37333333333333335,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PXYL"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.65,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PXYL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4726502145922747,
+    "Unit": "\u00b5g/l",
+    "Parameter": "24DNT"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 100.5,
+    "Unit": "\u00b5g/l",
+    "Parameter": "24DNT"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.23315476190476192,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MUSKXYL"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01060759493670886,
+    "Unit": "\u00b5g/l",
+    "Parameter": "MUSKXYL"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3188524590163934,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCFMA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5071129707112971,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCFMA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.4720453554295683,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCFMA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.20339508415062357,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCFMA"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 9.83103448275862,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TCACETICACID"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DCDFMA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4297071129707113,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DCDFMA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.4767796980966965,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DCDFMA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.031,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ACRYLONITRILE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "2CVE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "CL-ISOPROPYLETHER"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DCEE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 1.02,
+    "Unit": "\u00b5g/l",
+    "Parameter": "HEXACHLORETHANE"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04256190476190476,
+    "Unit": "\u00b5g/l",
+    "Parameter": "HEXACHLORETHANE"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NDMA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 240.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NDPA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "NDPHA"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "26DNT"
+  }
+]

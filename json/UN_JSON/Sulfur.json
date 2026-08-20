@@ -1,0 +1,128 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 239.91666666666666,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 11.082821510702283,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 163.06302877785404,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 21.796472622478387,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 12.559756097560976,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 77.8435294117647,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 18.754396022932287,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 34.5652280952381,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 30.35167790377643,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 25.590548215084926,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 153.92739645564274,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 112.04761588145897,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 69.13636765389982,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 50.67125798188968,
+    "Unit": "mg/l",
+    "Parameter": "SO4-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.0,
+    "Unit": "mg/l",
+    "Parameter": "S-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1741196911196911,
+    "Unit": "mg/l",
+    "Parameter": "S-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.12961460446247464,
+    "Unit": "mg/l",
+    "Parameter": "S-Sus"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 226.10152645,
+    "Unit": "mg/l",
+    "Parameter": "S-Dis"
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 126.00162571876633,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 19.146275103134773,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 12.5,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 33.040938615274804,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 37.8015247719717,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 62.57576719135392,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 21.60406161624141,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 53.285597156398104,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 90.73522077922077,
+    "Unit": "NTU",
+    "Parameter": "TURB"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 12.36178051511758,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7358864027538726,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 3.502906976744186,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.7737037037037038,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 3.0548311481669512,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 2.0194444444444444,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 77.6035537959944,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 67.42037581539458,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 74.10595745156816,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 2.73550753370341,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 5.28628892733564,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 5.292916666666667,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.8546666666666667,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8020040802922704,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 31769565.598420944,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 9.170967741935485,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 7.893189964157705,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 2.340625,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 2.47925,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6566889271865575,
+    "Unit": "m",
+    "Parameter": "TRANS"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 14.408001474926253,
+    "Unit": "TCU",
+    "Parameter": "COL-True"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 53.111748554614906,
+    "Unit": "TCU",
+    "Parameter": "COL-True"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 104.06030028129395,
+    "Unit": "TCU",
+    "Parameter": "COL-True"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 58.87306013188778,
+    "Unit": "Hu",
+    "Parameter": "COL-App"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 200.0,
+    "Unit": "Hu",
+    "Parameter": "COL-App"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.17065371123047846,
+    "Unit": "---",
+    "Parameter": "A340"
+  }
+]

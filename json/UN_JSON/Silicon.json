@@ -1,0 +1,233 @@
+[
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 8.675,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 4.39749433106576,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 1.7266666666666666,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.330793957142857,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 3.5311538461538463,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.557507867762259,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 5.995590433010698,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9919565217391305,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 2.7418604651162792,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 54.56914768367161,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 12.488591923076923,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 1.6701160398505606,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 6.176722333043478,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 2.9446543535620053,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 17.17471783295711,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 5.653958691910499,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 4.05146875,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 8.384778188360604,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 18.131780962128968,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 14.976518513059649,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 16.49590932338051,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8800514708031314,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 5.159964580873671,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 2.6897101449275365,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 9.897321428571429,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 3.9230933106092887,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 5.274409937888199,
+    "Unit": "mg/l",
+    "Parameter": "Si-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 2.5974500000000003,
+    "Unit": "mg/l",
+    "Parameter": "Si-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 2.98015625,
+    "Unit": "mg/l",
+    "Parameter": "Si-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 5.04547770700637,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Rea"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 11.745377777777778,
+    "Unit": "mg/l",
+    "Parameter": "SiO2-Rea"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.835,
+    "Unit": "mg/l",
+    "Parameter": "Si-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.590512890625,
+    "Unit": "mg/l",
+    "Parameter": "Si-Tot"
+  }
+]

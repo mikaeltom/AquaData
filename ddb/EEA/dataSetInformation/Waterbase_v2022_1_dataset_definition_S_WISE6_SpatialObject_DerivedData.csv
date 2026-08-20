@@ -1,0 +1,28 @@
+﻿Element name,Element definition,Value definitions
+countryCode,Abbreviation of EEA Member or Collaborating Country.,
+thematicIdIdentifier,Unique identifier of the spatial object.,
+thematicIdIdentifierScheme,Identifier defining the scheme used to assign the thematic identifier.,
+monitoringSiteIdentifier,Unique international identifier of the monitoring site.,"Is equal to the thematicIdIdentifier value, if spatial object is a monitoring site."
+monitoringSiteIdentifierScheme,Specification of whether the monitoring site is a WFD monitoring site ('euMonitoringSiteCode') or not ('eionetMonitoringSiteCode').,"eionetMonitoringSiteCode: EIONET identifier;
+euMonitoringSiteCode: WFD identifier "
+monitoringSiteName,Name of the monitoring site,
+waterBodyIdentifier,Unique international identifier of the water body being monitored.,"Is equal to the thematicIdIdentifier value, if spatial object is a water body."
+waterBodyIdentifierScheme,Specification of whether the water body is a WFD water body ('euGroundwaterBodyCode' or 'euSurfaceWaterBodyCode') or not ('eionetGroundwaterBodyCode' or 'eionetSurfaceWaterBodyCode').,"eionetGroundwaterBodyCode: Groundwater body identifier is an EIONET identifier;
+eionetSurfaceWaterBodyCode: Surface water body identifier is an EIONET identifier;
+euGroundwaterBodyCode: Groundwater body identifier is a WFD identifier;
+euSurfaceWaterBodyCode: Surface water body identifier is a WFD identifier"
+waterBodyName,Name of the water body,
+specialisedZoneType,"Additional classification value which further specialises the type of management, regulation or restriction zone, represented by this spatial object.",
+naturalAWBHMWB,"Specification of whether a water body is identified as natural, artificial (AWB) or heavily modified (HMWB).",
+reservoir,"For heavily modified river or lake water bodies, the value indicates whether the water body is a reservoir that has been created by damming a river or an existing lake.",
+surfaceWaterBodyTypeCode,Member State code for the characterisation type of the surface water body under the WFD.,
+subUnitIdentifier,Unique international identifier of the river basin district sub-unit.,"Is equal to the thematicIdIdentifier value, if spatial object is an RBD sub-unit."
+subUnitIdentifierScheme,Identifier defining the scheme assigned to the spatial object identifier.,
+subUnitName,Name of the river basin district sub-unit.,
+rbdIdentifier,Unique international identifier of the river basin district.,"Is equal to the thematicIdIdentifier value, if spatial object is an RBD."
+rbdIdentifierScheme,Identifier defining the scheme assigned to the spatial object identifier.,
+rbdName,Name of the river basin district.,
+confidentialityStatus,Information about the sensitivity and confidentiality status of the monitoring site location.,"F: Free for publication;
+N: Not for publication"
+lon,Longitude of the monitoring site. It is not provided for monitoring sites where publication is restricted.,
+lat,Latitude of the monitoring site. It is not provided for monitoring sites where publication is restricted.,

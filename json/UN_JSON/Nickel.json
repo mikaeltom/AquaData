@@ -1,0 +1,450 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0029769230769230767,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010797872340425534,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0040706977175728335,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0022357429718875502,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0023048561151079137,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00038750000000000004,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0038088073394495414,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0011727058687079563,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005059936908517351,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004168337790408538,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0009391425425425426,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 1.9446459164149044,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0012756140350877192,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00012509655172413794,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0077557174970039385,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0012314935064935066,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0018041,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0019420747498528545,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 1.7385331230283911,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002711692109223823,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0023069017660044154,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "PRT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003909370078740157,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0033174603174603175,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001223644094488189,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002101891891891892,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 0.0018000000000000002,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0020309278350515462,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08775,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0032431132487975513,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0019902744518354274,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005382112567463377,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "BIH",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001654605423894454,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "1980-2000",
+    "Value": 0.002595121951219512,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002567784090909091,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "CZE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005835032733978792,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0001,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0022815590459569516,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0027011187739463603,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.015666666666666666,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0027657976934166266,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006011204481792717,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.023308333333333334,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01653756425531915,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.005205373498880521,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00542089688140223,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0013538584566173532,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05964352952417352,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001412715583826087,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0054813367177709085,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 61538.46561955477,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 0.001,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0006059899749373433,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010551875,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010810085337470908,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0009269504504504504,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005022556390977444,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 0.009588235294117647,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.006592391304347827,
+    "Unit": "mg/l",
+    "Parameter": "Ni-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8546463742166518,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ni-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 41.56868055555556,
+    "Unit": "\u00b5g/g",
+    "Parameter": "Ni-Sus"
+  }
+]

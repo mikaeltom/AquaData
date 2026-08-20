@@ -1,0 +1,23 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018243322553599235,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Nb-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.027540638606676344,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Nb-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0026182587888827534,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Nb-Dis"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09815625,
+    "Unit": "ppt",
+    "Parameter": "Sal"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 2.8992351485148515,
+    "Unit": "ppt",
+    "Parameter": "Sal"
+  }
+]

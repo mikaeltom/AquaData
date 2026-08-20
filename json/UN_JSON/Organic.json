@@ -1,0 +1,233 @@
+[
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 23.960205391527598,
+    "Unit": "\u00b5g/l",
+    "Parameter": "HC-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "1980-2000",
+    "Value": 189.74236260078408,
+    "Unit": "\u00b5g/l",
+    "Parameter": "HC-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "2000-2023",
+    "Value": 103.18771463365131,
+    "Unit": "\u00b5g/l",
+    "Parameter": "HC-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 492.73810767489715,
+    "Unit": "\u00b5g/l",
+    "Parameter": "HC-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 3796.359158878505,
+    "Unit": "\u00b5g/l",
+    "Parameter": "HC-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2468535593220339,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.39930071174377224,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7473684210526316,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "BIH",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.3,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6816923076923077,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.7193291907514451,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.055033075772102646,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.07366747066492829,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1653361344537815,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4236322495606327,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6109982174688057,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.39,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 388.2214285714286,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 174489618.86377248,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 36.943887239999995,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2575672131147541,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4120408163265306,
+    "Unit": "\u00b5g/l",
+    "Parameter": "DEHP"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 83.45070422535211,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TPHC"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 17.597750865051903,
+    "Unit": "\u00b5g/l",
+    "Parameter": "TPHC"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 10.0,
+    "Unit": "ng/l",
+    "Parameter": "CARBAZOLE"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014208633093525179,
+    "Unit": "\u00b5g/l",
+    "Parameter": "34DCA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.245,
+    "Unit": "\u00b5g/l",
+    "Parameter": "ONCB"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.2517241379310345,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PNCB"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 13.8912,
+    "Unit": "mg/l",
+    "Parameter": "OG"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 6.3025,
+    "Unit": "mg/l",
+    "Parameter": "OG"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 200.0,
+    "Unit": "\u00b5g/l",
+    "Parameter": "IP"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 19.47539316239316,
+    "Unit": "\u00b5g/l",
+    "Parameter": "AOX"
+  }
+]

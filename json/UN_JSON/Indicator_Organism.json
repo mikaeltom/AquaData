@@ -1,0 +1,198 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 50.67094515029439,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 11633.246394784717,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 40665.10556750664,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 38149.31616092187,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 894.2323750228895,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 7712.577227088229,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 2335.6474388555607,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 1048.5032906130932,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALCOLI"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 56.04446978335234,
+    "Unit": "1/100 ml",
+    "Parameter": "ECOLI"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 40231.816305230044,
+    "Unit": "1/100 ml",
+    "Parameter": "ECOLI"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 632.3278100775194,
+    "Unit": "1/100 ml",
+    "Parameter": "ECOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 642.6549192364171,
+    "Unit": "1/100 ml",
+    "Parameter": "ECOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 974.5564071856287,
+    "Unit": "1/100 ml",
+    "Parameter": "ECOLI"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 285.89877300613495,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 88.0,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 27754.00184079602,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 201175.01923663676,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 87046.94072224648,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 7528.338251986379,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 21040.18117647059,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 21723.915925626516,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 25191.017382413087,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTCOLI"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 20.87837606837607,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALSTREP"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 3885.490224540712,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALSTREP"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 2038.4235294117648,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALSTREP"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 1115.5447619047618,
+    "Unit": "1/100 ml",
+    "Parameter": "FECALSTREP"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 943.4988729809105,
+    "Unit": "1/100 ml",
+    "Parameter": "ENTCOCC"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 78148.48484848485,
+    "Unit": "1/100 ml",
+    "Parameter": "TOTMESO"
+  }
+]

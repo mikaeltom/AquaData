@@ -1,0 +1,387 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 66.2,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 101.46988352745424,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 71.4008547008547,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 21.111684401057556,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.5944444444444446,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 86.32363636363637,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 95.48982295886925,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 68.44178975985501,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 31.719101890272018,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 28.555014878777815,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 31.04376333847729,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 24.770455259026686,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 4.128947368421053,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 84.5560552341855,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 46.47859103680813,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 67.3801161103048,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 69.1180443285528,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 59.55614092854791,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 53.04759302081143,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 41.77465926604105,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 36.67345024341038,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 74.275,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 44.08666756802722,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 104.18671287128713,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 69.91851851851851,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 7.185057824591574,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 20.061510416666668,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "DNK",
+    "Year_Bin": "2000-2023",
+    "Value": 152.0,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "ESP",
+    "Year_Bin": "2000-2023",
+    "Value": 83.32843900035859,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 49.87096774193548,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 4.409006038086392,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 83.56115719063544,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 29.13220930232558,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 71.69546805349184,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 72.55928571428572,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 37.62645333333334,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 4.164256163880433,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 90.94609792852624,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 73.05260545905708,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 67.28031884057971,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 97.87042771733087,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 48.800049098865244,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 72.59418183204171,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 2.5837557251908394,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 1.8971391884951208,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 6.209173904538341,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 56.872473867595815,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "ROU",
+    "Year_Bin": "2000-2023",
+    "Value": 53.979520276742946,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 56.811181702668364,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 14.831014244036384,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 10.394681440443215,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 21.35163329820864,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 44.159937888198755,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 27.856082621082624,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 36.273683035714285,
+    "Unit": "mg/l",
+    "Parameter": "Ca-Ext"
+  }
+]

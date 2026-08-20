@@ -1,0 +1,128 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 0.566923076923077,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.009358335441436882,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 1.10000002384186,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.18958333333333333,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.118881118881119,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.27510226215644823,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.97808,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 1.5166666666666666,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1013810752688172,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.007923548773189706,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 1.5012121212121212,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5216931216931217,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8701986754966888,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 2.55,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 103007828.88917181,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0451046421663443,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 33.750166666666665,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.20196872180451128,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ag-Ext"
+  }
+]

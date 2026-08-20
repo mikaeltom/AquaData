@@ -1,0 +1,37 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.07672435064935065,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Sb-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.11190080479131573,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Sb-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09441749300788202,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Sb-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.35844444444444445,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Sb-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Sb-Dis"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 84.46363636363637,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 10.439926933068037,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 15.305454545454545,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 22.1515819112628,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 24.49545730994152,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 35.05051722282824,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 37.20418301848309,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 10.149844651575677,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 6.143125,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 94.7773462865497,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 11.610689461801075,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 226.23504293520688,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 55.32887165951831,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 37.831184706075,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 30.597024856512142,
+    "Unit": "mg/l",
+    "Parameter": "Na-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 68.7,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 10.585138968253968,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 8.155555555555555,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 24.89090909090909,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 26.86137566137566,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 7.4465625,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "ESP",
+    "Year_Bin": "2000-2023",
+    "Value": 60.747013696375205,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 5.122222222222223,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.5266178623718885,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 25.536068919371026,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 19.10218740384804,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 49.81711387900356,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 76.73893738489872,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 10.242594739188586,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 6.164797717014519,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 33.418100669259296,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 15.068256880733944,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 66.61658536585367,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 117.06232534274918,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 14.1346,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 144.21312956892478,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 0.716188340807175,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 2.0354111405835544,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 4.58900409941071,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 17.3,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "ROU",
+    "Year_Bin": "2000-2023",
+    "Value": 40.661243,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 21.398683825680024,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 6.6226086617583375,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 10.326247553816046,
+    "Unit": "mg/l",
+    "Parameter": "Na-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.643904929577465,
+    "Unit": "mg/l",
+    "Parameter": "Na-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 49.76435643564356,
+    "Unit": "mg/l",
+    "Parameter": "Na-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 13.827853773584904,
+    "Unit": "mg/l",
+    "Parameter": "Na-Ext"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 7.126554945054944,
+    "Unit": "mg/l",
+    "Parameter": "Na-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6896631944444445,
+    "Unit": "---",
+    "Parameter": "SAR"
+  }
+]

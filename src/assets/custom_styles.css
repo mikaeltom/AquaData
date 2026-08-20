@@ -1,0 +1,301 @@
+/* assets/custom_styles.css */
+
+/* Global Styles */
+* {
+    font-family: 'Candara', sans-serif;
+    margin: 0;
+    padding: 0
+}
+
+
+body {
+    font-family: 'Candara', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b3caf5; /* Light Blue Background for the page */
+    color: #091540; /* Deep Blue text color */
+}
+
+/* Navbar Styling */
+.navbar {
+    background-color: #091540 !important; /* Deep Blue for Navbar */
+    color: white !important;
+    font-family: 'Candara', sans-serif;
+
+}
+
+.navbar .nav-link {
+    color: white !important;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+    font-family: 'Candara', sans-serif;
+}
+
+.navbar .nav-link:hover {
+    color: #7692FF !important; /* Hover effect with Light Blue */
+    transform: scale(1.05);
+    font-family: 'Candara', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.8em;
+    color: #7692FF !important; /* Light Blue for brand */
+    font-weight: bold;
+    transition: color 0.3s ease;
+    font-family: 'Candara', sans-serif;
+}
+
+.navbar-brand:hover {
+    color: #1B2CC1 !important; /* Dark Blue on hover */
+}
+
+/* Page Container */
+#url {
+    padding: 20px;
+}
+
+@keyframes PopInFade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
+/* Navigation Bar Animation */
+@keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+.navbar, .navbar-brand {
+    animation: fadeIn 1s ease-out;
+}
+
+/* Page content container */
+.page-container {
+    padding: 30px;
+    transition: all 0.5s ease;
+}
+
+/* Link Hover Effect */
+.nav-link {
+    transition: transform 0.2s ease;
+}
+
+.nav-link:hover {
+    transform: scale(1.05);
+}
+
+/* Customize Page Elements */
+.page-content {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    padding: 40px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Page Header Styling */
+.page-header {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #091540;
+    font-family: 'Candara', sans-serif;
+}
+
+.page-header span {
+    color: #7692FF; /* Light Blue for accent text */
+}
+
+/* Buttons Styling */
+.btn-primary {
+    background-color: #1B2CC1 !important; /* Dark Blue */
+    border-color: #1B2CC1;
+    font-size: 1.1em;
+    padding: 10px 30px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #3D518C !important; /* Medium Blue */
+    transform: scale(1.05);
+}
+
+/* Footer Styling */
+.footer {
+    background-color: #091540; /* Deep Blue Footer */
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+    font-size: 1.1em;
+    margin-top: 50px;
+    position: relative;
+    animation: fadeInUp 0.8s ease-out;
+    font-family: 'Candara', sans-serif;
+}
+
+/* Animation for Footer */
+@keyframes fadeInUp {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Footer Links */
+.footer a {
+    color: #7692FF;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-weight: bold;
+}
+
+.footer a:hover {
+    color: #1B2CC1;
+    text-decoration: underline;
+}
+
+/* Copyright Styling */
+.footer .copyright {
+    font-size: 0.9em;
+    margin-top: 20px;
+    color: #A4A4A4; /* Light Grey for Copyright */
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+.footer .copyright a {
+    color: #A4A4A4;
+}
+
+.footer .copyright a:hover {
+    color: #7692FF; /* Change to Light Blue when hovering over the copyright link */
+}
+
+
+/* Responsive Design for Smaller Screens */
+@media (max-width: 768px) {
+    .navbar {
+        font-size: 0.9em;
+    }
+
+    .navbar .nav-link {
+        font-size: 1em;
+    }
+
+    .page-header {
+        font-size: 2em;
+    }
+
+    .page-content {
+        padding: 20px;
+    }
+
+    .btn-primary {
+        font-size: 1em;
+        padding: 8px 25px;
+    }
+
+    .footer {
+        padding: 20px 0;
+    }
+
+    .footer .copyright {
+        font-size: 0.8em;
+    }
+}
+
+/* Styles harmonieux pour le Dropdown */
+.custom-dropdown {
+    background-color: #D1E3FF !important; /* Bleu clair doux */
+    color: #091540 !important; /* Texte en bleu foncé */
+    border-radius: 8px !important;
+    border: 1px solid #0B1B50FF !important; /* Bordure bleu clair */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1) !important;
+    padding: 8px !important;
+    font-size: 1em !important;
+}
+
+/* Styles pour le Slider */
+.custom-slider .rc-slider-track {
+    background-color: #0B1B50FF !important; /* Bleu foncé */
+
+}
+
+.custom-slider .rc-slider-mark-text {
+    color: #091540 !important; /* Couleur de texte rouge (Tomato) */
+}
+
+.custom-slider .rc-slider-handle {
+    border: 2px solid #0b1b50
+}
+/* Style the checklist container */
+.custom-log-toggle label {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #333;
+    cursor: pointer;
+    gap: 6px;
+}
+
+/* Style the actual checkbox input */
+.custom-log-toggle input[type="checkbox"] {
+    appearance: none; /* Remove default styling */
+    width: 18px;
+    height: 18px;
+    border: 2px solid #0B1B50FF; /* Green border */
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    margin-right: 8px; /* Space between checkbox and label */
+    vertical-align: middle;
+}
+
+/* Checked state styling */
+.custom-log-toggle input[type="checkbox"]:checked {
+    background-color: #0B1B50FF; /* Green background */
+    border-color: #0B1B50FF;
+}
+
+/* Checkmark styling */
+.custom-log-toggle input[type="checkbox"]:checked::before {
+    content: "✔";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    color: white;
+}
+
+/* Hover effect */
+.custom-log-toggle input[type="checkbox"]:hover {
+    border-color: #0B1B50FF; /* Darker green on hover */
+}
+
+.custom-log-toggle {
+    margin-left: 20px; /* Adjust the value as needed */
+}
+
+/* Optional: Fine-tune text positioning */
+.custom-log-toggle label span {
+    display: inline-block;
+    line-height: 18px; /* Match checkbox height */
+}
+.Select-value-label {
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+    display: block !important;
+}
+
+.Select-menu-outer, .Select-menu {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+    max-width: none !important;
+}
+

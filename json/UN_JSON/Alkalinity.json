@@ -1,0 +1,128 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 136.6818181818182,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 61.262393903498385,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 264.06971428571427,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 196.11194562162163,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 152.58934074131662,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 133.46131465294164,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 226.22132072972653,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 233.21371104938808,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 156.712893081761,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 41.582421807563975,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 59.52049226614289,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 87.3956043956044,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 94.38860557768925,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 2.468452751817238,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Phen"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 5.930688304093567,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Phen"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 6.56628863584023,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Phen"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 4.184699140438909,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Phen"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 24.72883991248063,
+    "Unit": "mg/l",
+    "Parameter": "Alk-Phen"
+  }
+]

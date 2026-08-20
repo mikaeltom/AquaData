@@ -1,0 +1,65 @@
+[
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 3.2100831525668836,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.7429725010912267,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 3.22671905697446,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 159108993.63596138,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 371.304,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6168646349206349,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.49356573705179285,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6518572494669509,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 8.776891791044775,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ti-Dis"
+  }
+]

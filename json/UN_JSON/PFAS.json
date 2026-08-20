@@ -1,0 +1,163 @@
+[
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006931940594059406,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 2e-05,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0031323529411764707,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 3.066666666666667e-05,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018548764906303236,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001732002567394095,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0004674725274725275,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.31020010312231455,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0033296874999999997,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 6.933333333333334e-05,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0026367129086336968,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4098285714285715,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0015,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOS"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0031000000000000003,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0006460000000000001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01607820823244552,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00013,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4380038711484594,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0002585833333333333,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.009223533049040512,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.39082857142857147,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "PFOA"
+  }
+]

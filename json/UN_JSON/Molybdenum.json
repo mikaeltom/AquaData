@@ -1,0 +1,51 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6412764891445537,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Mo-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.46211816666666666,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Mo-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4725,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Mo-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.43215735669952543,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Mo-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.8258733325174394,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Mo-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.8921250000000001,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Mo-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Mo-Dis"
+  }
+]

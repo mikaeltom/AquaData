@@ -1,0 +1,135 @@
+[
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002558896313364055,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02972985518292683,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.028927965116279066,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.007545574712643678,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0030067687923049516,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02842160224608877,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014064494382022471,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004326706993893306,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008171871257485029,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.012958305647840533,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.013081818181818182,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01760340197391033,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01928858232609129,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0025657142857142858,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003432147934165721,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03687738095238095,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01322731977818854,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008242677824267783,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00970708694492599,
+    "Unit": "mg/l",
+    "Parameter": "Chl-a"
+  }
+]

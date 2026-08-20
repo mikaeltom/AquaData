@@ -1,0 +1,7 @@
+dash>=2.17,<3.0
+dash-bootstrap-components>=1.6,<2.0
+plotly>=5.22,<6.0
+pandas>=2.2,<3.0
+numpy>=1.26,<2.0
+pycountry>=24.6.1
+scikit-learn>=1.5,<2.0

@@ -1,0 +1,464 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 0.039732,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0011775296912114016,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0029169925255704172,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0037539761904761904,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0018222621184919212,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010384615384615384,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0011178703703703704,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002428571428571429,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0012085102715127137,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003989871086556169,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0039840846956857925,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0011059433229813666,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 5.019155011337869,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002419162173372045,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00021648387096774195,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01326686451380119,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0013235294117647058,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0013555555555555556,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0014106730038022813,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0031376454948301327,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 2.860648219178082,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0021526131260794475,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0050549114011516315,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "PRT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0029000000000000002,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006923455469376839,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.002666666666666667,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010170048,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0014152777777777779,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 0.0038620689655172414,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.005290556900726392,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Dis"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "1980-2000",
+    "Value": 0.020307357422725294,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003001515566037736,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006300933786078098,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "BIH",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0020833333333333333,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0015920155793573516,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "1980-2000",
+    "Value": 0.002074074074074074,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0018700692041522492,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "CZE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0055080981158905085,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1960-1980",
+    "Value": 0.005208333333333333,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0020553969594594595,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001422107385933955,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.014826732673267328,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003976082337317398,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02548687664041995,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0451510067114094,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03929019264069264,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.008058407437348423,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006615785892492629,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0022697566166883965,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.15244297865511156,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.002080992010652463,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0015985964912280702,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0070073144683874015,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 54740.532277972845,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 0.03875875486381323,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 0.01720873786407767,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001882771721958926,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.12325035,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01296718206416699,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0011829623324527932,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00715207100591716,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 0.008842105263157896,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.01297422680412371,
+    "Unit": "mg/l",
+    "Parameter": "Cu-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.166045925925926,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Cu-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 37.55197530864198,
+    "Unit": "\u00b5g/g",
+    "Parameter": "Cu-Sus"
+  }
+]

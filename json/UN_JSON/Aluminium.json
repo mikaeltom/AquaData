@@ -1,0 +1,282 @@
+[
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.36911482616651414,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 1.0243847758081335,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.4216202856451223,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "CZE",
+    "Year_Bin": "2000-2023",
+    "Value": 1.74960999405116,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1960-1980",
+    "Value": 0.4073333333333334,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.4048152547671147,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.39691573575802563,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.13528355421686747,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.14468421052631578,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.12073096609085093,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0903143338143338,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.12960956207312174,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.07130434782608695,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06307876712328767,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.014716666666666666,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.33798030182031713,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05228866905829596,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 0.24701634877384196,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 0.14837229437229438,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.11537706666666665,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.36503290476190475,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5225119809688582,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1375184125804854,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 11.231547785547786,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.043750000000000004,
+    "Unit": "mg/l",
+    "Parameter": "Al-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.012160926997245178,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.008306144578313253,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02667145421903052,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.1955,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04328863636363636,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0041775,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 14.430337078651684,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 0.30043608396018195,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09037605386416862,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.048533260774923814,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.016659114285714285,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.817954312849162,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03354187790074973,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 2.8458343558282206,
+    "Unit": "mg/l",
+    "Parameter": "Al-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 249.51651151067048,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Al-Ext"
+  }
+]

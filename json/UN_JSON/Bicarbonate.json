@@ -1,0 +1,142 @@
+[
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 176.25989555150886,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 185.91859575640675,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 257.7296137339056,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 205.0063666180758,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 287.6572026457943,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 222.59748334102446,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 155.35816089441875,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 148.18596349930672,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 113.73318291379444,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 159.76060544897933,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 230.60966666666667,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 231.4763468733298,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 163.22111403137282,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 284.63240131209227,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "ROU",
+    "Year_Bin": "2000-2023",
+    "Value": 205.40789157346492,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 214.9827213822894,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 35.106210027438266,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 151.95001475942144,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 135.39938620181684,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 152.52788310834723,
+    "Unit": "mg/l",
+    "Parameter": "HCO3"
+  }
+]

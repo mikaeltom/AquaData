@@ -1,0 +1,443 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 8.66400841662283,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 7.81950379828673,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 8.517602978822435,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 8.793821656050955,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 10.937069514796054,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 10.88776263848211,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "DNK",
+    "Year_Bin": "2000-2023",
+    "Value": 2.863465346534653,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 11.025742574257425,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 9.661923076923076,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 6.575541072213165,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 10.506632958801498,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 0.020558375634517765,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 6.967802767991947,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 6.724741895982242,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 10.577773826458037,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 15.322116293404562,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 9.36156292749658,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 10.381337209302325,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 5.824857437227038,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 9.535287232074118,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 9.559998437868426,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 10.924615384615384,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 10.17038901378579,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 10.32975922953451,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "PRT",
+    "Year_Bin": "2000-2023",
+    "Value": 10.229314285714286,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 9.756210873146623,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 10.612489304088818,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 7.951070609188847,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 9.096015146051208,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 9.277784073024867,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 9.374616385882703,
+    "Unit": "mg/l",
+    "Parameter": "O2-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 99.69892120571127,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 79.44542724884275,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 80.63601629802095,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 90.081,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 97.80728284278537,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 106.38636363636364,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 94.32432989690722,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 88.39015918958032,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 96.20311052283256,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 103.17758249859531,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 92.18154147640792,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 0.8820722772277227,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 83.31744169659258,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 61.81040840227913,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 97.83131206740897,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 86.07229923518165,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 90.36337209302326,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 75.25153823123149,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 81.68581978665455,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 94.02362204724409,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 90.38596845629966,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 99.05805243445693,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "PRT",
+    "Year_Bin": "2000-2023",
+    "Value": 99.64808959156784,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 92.37569970365492,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 89.34702048417132,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 89.07104297328686,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 83.9841745081266,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 91.94578057278831,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 94.02630818155536,
+    "Unit": "%",
+    "Parameter": "O2-Dis-Sat"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 2.65585255354201,
+    "Unit": "mg/l",
+    "Parameter": "CO2"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.11322159090909091,
+    "Unit": "mg/l",
+    "Parameter": "H2S"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5656251757073171,
+    "Unit": "mg/l",
+    "Parameter": "H2S"
+  }
+]

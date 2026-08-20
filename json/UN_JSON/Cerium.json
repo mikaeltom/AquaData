@@ -1,0 +1,23 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.9155120293516179,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ce-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.5832300366300367,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ce-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0868460688639293,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ce-Dis"
+  }
+]

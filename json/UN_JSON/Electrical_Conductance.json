@@ -1,0 +1,233 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 2300.1631135531134,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 447.23606059119476,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 1359.6856120789778,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 596.3367021276596,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 226.0710742591356,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 438.85359914369815,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "DNK",
+    "Year_Bin": "1980-2000",
+    "Value": 65.17414634146341,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "DNK",
+    "Year_Bin": "2000-2023",
+    "Value": 103.24001703577514,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 434.319801980198,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 6.298803730394235,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 495.0376184690158,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 1072.3509609179093,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 551.1708954664668,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1960-1980",
+    "Value": 504.7451566383902,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "1980-2000",
+    "Value": 438.2714487591453,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 507.56963226963717,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 232.80739339987417,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 812.156065318818,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 505.21019151846787,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 691.4414414414415,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 8006.575205092384,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 326.45269016697586,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 58.885714285714286,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 54.16996291718171,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 85.2934743838136,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 543.7998366013072,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "PRT",
+    "Year_Bin": "2000-2023",
+    "Value": 249.64457831325302,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 450.296345077379,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 141.66198704880682,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 473.7601645193393,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1960-1980",
+    "Value": 384.0272727272727,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 496.8372191606613,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "2000-2023",
+    "Value": 551.8663060278207,
+    "Unit": "\u00b5S/cm",
+    "Parameter": "EC"
+  }
+]

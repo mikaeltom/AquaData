@@ -1,0 +1,102 @@
+[
+    {
+        "observedPropertyDeterminandLabel": "Ammonium",
+        "avgResultMeanValue_2010_2023": 0.6075713218064517,
+        "eu_averageMeanValue": 0.6983076860018249
+    },
+    {
+        "observedPropertyDeterminandLabel": "BOD5",
+        "avgResultMeanValue_2010_2023": 2.22723543814433,
+        "eu_averageMeanValue": 3.2026124408971266
+    },
+    {
+        "observedPropertyDeterminandLabel": "Benzo(a)pyrene",
+        "avgResultMeanValue_2010_2023": 0.011026894264099037,
+        "eu_averageMeanValue": 0.2179712338153391
+    },
+    {
+        "observedPropertyDeterminandLabel": "Benzo(g,h,i)perylene",
+        "avgResultMeanValue_2010_2023": 0.009253141648351648,
+        "eu_averageMeanValue": 0.7495082658608004
+    },
+    {
+        "observedPropertyDeterminandLabel": "CODCr",
+        "avgResultMeanValue_2010_2023": 17.552642181340342,
+        "eu_averageMeanValue": 16.517900316742473
+    },
+    {
+        "observedPropertyDeterminandLabel": "Cadmium and its compounds",
+        "avgResultMeanValue_2010_2023": 0.076913953625,
+        "eu_averageMeanValue": 1.7669370836790401
+    },
+    {
+        "observedPropertyDeterminandLabel": "Dissolved organic carbon (DOC)",
+        "avgResultMeanValue_2010_2023": 3.9662322055137844,
+        "eu_averageMeanValue": 4.0721241923133515
+    },
+    {
+        "observedPropertyDeterminandLabel": "Dissolved oxygen",
+        "avgResultMeanValue_2010_2023": 9.71202746835443,
+        "eu_averageMeanValue": 22.725480527108168
+    },
+    {
+        "observedPropertyDeterminandLabel": "Electrical conductivity",
+        "avgResultMeanValue_2010_2023": 738.0526886075949,
+        "eu_averageMeanValue": 777.3106514763017
+    },
+    {
+        "observedPropertyDeterminandLabel": "Fluoranthene",
+        "avgResultMeanValue_2010_2023": 0.021969849833564495,
+        "eu_averageMeanValue": 0.7546508822070278
+    },
+    {
+        "observedPropertyDeterminandLabel": "Lead and its compounds",
+        "avgResultMeanValue_2010_2023": 0.9722858194444445,
+        "eu_averageMeanValue": 307.1477760870809
+    },
+    {
+        "observedPropertyDeterminandLabel": "Nickel and its compounds",
+        "avgResultMeanValue_2010_2023": 2.327781187214612,
+        "eu_averageMeanValue": 157.8435677056813
+    },
+    {
+        "observedPropertyDeterminandLabel": "Nitrate",
+        "avgResultMeanValue_2010_2023": 15.516745081528661,
+        "eu_averageMeanValue": 16.158165296959975
+    },
+    {
+        "observedPropertyDeterminandLabel": "Nitrite",
+        "avgResultMeanValue_2010_2023": 0.23613384302176696,
+        "eu_averageMeanValue": 0.4554183749761623
+    },
+    {
+        "observedPropertyDeterminandLabel": "Oxygen saturation",
+        "avgResultMeanValue_2010_2023": 88.47178443037976,
+        "eu_averageMeanValue": 89.82206647169032
+    },
+    {
+        "observedPropertyDeterminandLabel": "Phosphate",
+        "avgResultMeanValue_2010_2023": 0.15639660313901346,
+        "eu_averageMeanValue": 0.49743542288949405
+    },
+    {
+        "observedPropertyDeterminandLabel": "Total nitrogen",
+        "avgResultMeanValue_2010_2023": 4.364591654879774,
+        "eu_averageMeanValue": 3.031875410329015
+    },
+    {
+        "observedPropertyDeterminandLabel": "Total phosphorus",
+        "avgResultMeanValue_2010_2023": 0.2455965517241379,
+        "eu_averageMeanValue": 0.24300452688331556
+    },
+    {
+        "observedPropertyDeterminandLabel": "Water temperature",
+        "avgResultMeanValue_2010_2023": 11.911531772151898,
+        "eu_averageMeanValue": 13.460316612718989
+    },
+    {
+        "observedPropertyDeterminandLabel": "pH",
+        "avgResultMeanValue_2010_2023": 7.841554556962025,
+        "eu_averageMeanValue": 7.891452578451439
+    }
+]

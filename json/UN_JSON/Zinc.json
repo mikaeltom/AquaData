@@ -1,0 +1,450 @@
+[
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 2.8002846153846153,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004694426035502959,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.021374588626148133,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "BGR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.016302857142857143,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0025292639138240576,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0010769230769230769,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0017279661016949153,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02249,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004698391274710293,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.10811676646706586,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01134309240746109,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0038296319535221493,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "IND",
+    "Year_Bin": "2000-2023",
+    "Value": 6.550085212718316,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005196483001172333,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "ISL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0005142682926829268,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.018820525759887338,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006631617647058823,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.0037272727272727275,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005620239043824701,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.033691561320754716,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "MKD",
+    "Year_Bin": "2000-2023",
+    "Value": 1.99363514380531,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 0.007097346441621715,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.06951841034482759,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.023624846967167504,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.025015873015873016,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "SVN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.006929073243647235,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005141666666666666,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.01151470588235294,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Dis"
+  },
+  {
+    "ISO3": "ARG",
+    "Year_Bin": "2000-2023",
+    "Value": 81.66292307692308,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "1980-2000",
+    "Value": 0.038101709776413854,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "AUT",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01043155388471178,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "BEL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.04801462599247806,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "BIH",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05197142857142858,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.00444160351992178,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "1980-2000",
+    "Value": 0.008787804878048781,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "CHE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0033256505576208174,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "CZE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03287067945007236,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "EST",
+    "Year_Bin": "2000-2023",
+    "Value": 0.001,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1960-1980",
+    "Value": 0.8945729166666667,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.024218217893217896,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "FIN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.010224747655203216,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.02228329297820823,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "FRA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01235766497461929,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "GBR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03316467174464998,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "GRC",
+    "Year_Bin": "2000-2023",
+    "Value": 1.3176461328480438,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "HRV",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02911386287625418,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "1980-2000",
+    "Value": 0.07772191752996141,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "HUN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05182775229357798,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "IRL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.05287367801769911,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "ITA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.46906762377667255,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "LTU",
+    "Year_Bin": "2000-2023",
+    "Value": 0.02181505466666667,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "LVA",
+    "Year_Bin": "2000-2023",
+    "Value": 0.003696517857142857,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "MEX",
+    "Year_Bin": "2000-2023",
+    "Value": 0.03298585990802001,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "NLD",
+    "Year_Bin": "2000-2023",
+    "Value": 55026.69886838282,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1960-1980",
+    "Value": 0.12295515695067265,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "1980-2000",
+    "Value": 0.03641728395061729,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "NOR",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005807076069730586,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "POL",
+    "Year_Bin": "2000-2023",
+    "Value": 0.6245504500000001,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "SRB",
+    "Year_Bin": "2000-2023",
+    "Value": 0.050176411446249035,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "SWE",
+    "Year_Bin": "2000-2023",
+    "Value": 0.004035227005870842,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "URY",
+    "Year_Bin": "2000-2023",
+    "Value": 0.08720935828877006,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "USA",
+    "Year_Bin": "1980-2000",
+    "Value": 0.06347826086956522,
+    "Unit": "mg/l",
+    "Parameter": "Zn-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 3.5883350676378774,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Zn-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 191.12440251572326,
+    "Unit": "\u00b5g/g",
+    "Parameter": "Zn-Sus"
+  }
+]

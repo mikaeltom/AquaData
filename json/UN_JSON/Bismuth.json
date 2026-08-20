@@ -1,0 +1,23 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.005767220595832617,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Bi-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 1.2653033419023136,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Bi-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.0013836494790275182,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Bi-Dis"
+  }
+]

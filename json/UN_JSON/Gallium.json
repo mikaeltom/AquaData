@@ -1,0 +1,23 @@
+[
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.09382615949282616,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ga-Ext"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.12951749698327875,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ga-Tot"
+  },
+  {
+    "ISO3": "CAN",
+    "Year_Bin": "2000-2023",
+    "Value": 0.01042148889583985,
+    "Unit": "\u00b5g/l",
+    "Parameter": "Ga-Dis"
+  }
+]
