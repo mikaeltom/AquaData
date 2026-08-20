@@ -8,6 +8,7 @@ Date : 16/05/2025
 
 ![demo_screen](docs/images/home.png)
 
+![me](docs/videos/demo.gif)
 
 ## Project Description
 
